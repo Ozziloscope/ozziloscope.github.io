@@ -1,4 +1,6 @@
-# blank-gh-site
+# Ozziloscope - Personal Site. 
+
+This is a fork'd Setup.
 
 This repository provides minimal HTML for starting a new web site!
 
